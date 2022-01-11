@@ -1,0 +1,11 @@
+.heading{
+    width: 100%;
+}
+
+body{
+     background-position: center;
+}
+
+canvas{
+    border: 10px ridge turquoise;
+}
